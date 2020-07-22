@@ -15,3 +15,5 @@ This extension is built on the following stack:
 - 30% frustration.
 - 19% insomnia.
 
+Source is licensed under the [Google BSD License](https://developers.google.com/open-source/licenses/bsd).
+
