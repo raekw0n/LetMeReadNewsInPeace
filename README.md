@@ -6,6 +6,7 @@ I have no idea what I'm doing.
 3. Click "Load unpacked"
 4. Load the directory containing the extension
 5. Go to https://metro.co.uk or https://www.dailymail.co.uk
+6. Click the little death star
 6. ???
 7. Profit
 
